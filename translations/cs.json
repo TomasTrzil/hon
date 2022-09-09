@@ -1,0 +1,14 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "hOn",
+                "description": "Prosím zadejte vaše hOn přihlašovací údaje",
+                "data": {
+                    "email": "E-mail",
+                    "password": "Heslo"
+                }
+            }
+        }
+    }
+}
