@@ -1,0 +1,29 @@
+{
+	"state": {
+		"tumbledryerprogram": {
+			"Cotton": "Bavlna",
+			"Synthetics": "Syntetika",
+			"Mix": "Mix",
+			"Sports": "Sportovní",
+			"i-time": "i-time",
+			"Duvet": "Peřiny",
+			"Wool": "Vlna",
+			"i-Refresh": "i-Refresh",
+			"Towel": "Ručníky",
+			"Quick Dry": "Rychlé sušení",
+			"Delicate": "Jemné",
+			"Remote 103": "Dálkové ovládání"
+		},
+		"tumbledryertemplevel": {
+			"Cool": "Studená",
+			"Low temperature L-1": "Nízká teplota",
+			"Middle temperature L-2": "Střední teplota",
+			"High temperature L-3": "Vysoká teplota"
+		},
+		"tumbledryerdrylevel": {
+			"Extra Dry H-1": "Extra suché",
+			"Ready to Store H-2": "Suché do skříně",
+			"Ready to Iron H-3": "K žehlení"
+		}
+	}
+}
